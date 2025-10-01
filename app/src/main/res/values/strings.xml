@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">País B - Brasil 🇧🇷</string>
+    <string name="home_title">Início</string>
+    <string name="welcome_message">Bem-vindo ao aplicativo do Brasil</string>
+    <string name="test_button">Testar CustomButton</string>
+    <string name="profile_title">Perfil</string>
+</resources>
