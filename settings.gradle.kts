@@ -13,7 +13,7 @@ dependencyResolutionManagement {
         mavenCentral()
         mavenLocal() // Para desarrollo local
         maven {
-            url = uri("https://maven.pkg.github.com/org/repo-principal")
+            url = uri("https://maven.pkg.github.com/MiguelMialdeaDev/repo-principal")
             credentials {
                 username = providers.gradleProperty("gpr.user").orNull
                 password = providers.gradleProperty("gpr.token").orNull
